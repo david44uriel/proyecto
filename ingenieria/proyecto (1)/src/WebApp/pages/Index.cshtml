@@ -1,0 +1,18 @@
+@page
+
+@{
+    double altura = 5;
+double A = 10;
+double B= 20;
+double base1= 10;
+
+    double perimetro = Application.Paralelogramo.Perimetro(A ,B);
+    double area = Application.Paralelogramo.Area(base1, altura);
+    double volumen = Application.Paralelolipedo.Volumen(area, altura);
+}
+
+El perímetro de la base de un Prisma Cuadrangular de @(altura)cm por lado es @(perimetro)cm
+<br />
+El área de la base de un Prisma Cuadrangular de @(altura)cm por lado es @(area)cm2
+<br />
+El volumen un Prisma Cuadrangular con un área de la base de @(area)cm2 y @(altura)cm de altura es @(volumen)cm3

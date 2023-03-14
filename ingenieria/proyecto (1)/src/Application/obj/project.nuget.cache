@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "qPaRCvQqtHsHcsG8VYIohLzOfPXbJ9kHDp/MiMDj1X3tfT0rEgQgxZvejQFYwhFb6gXD0KmkUQCiqXxFDB4roA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alumno49\\TRIANGULO\\src\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alumno49\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\Alumno49\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\Alumno49\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
